@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.13.0
+numpy
+pandas
+Pillow
+keras==2.13.1
+h5py
+protobuf==3.20.*
